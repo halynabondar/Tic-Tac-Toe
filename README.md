@@ -20,7 +20,7 @@
 
    ```bash
 
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/halynabondar/Tic-Tac-Toe.git
    
    npm install
    
