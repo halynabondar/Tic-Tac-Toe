@@ -1,8 +1,8 @@
-# Tic-Tac-Toe
+# 📝 Tic-Tac-Toe
 
 ### A simple project built as part of a Udemy course to practice React.
 
-## Features
+## 🚀 Features
 
 [//]: # (- ✅ Feature 1)
 
@@ -10,21 +10,27 @@
 
 [//]: # (- ✅ Feature 3  )
 
-## Tech Stack
+## 🛠️ Technologies Used
+
 - React
 - Vite
 
-## Installation
+## 🏗️ How to Run the Project
 
 1. Clone the repository:
 
    ```bash
 
    git clone https://github.com/halynabondar/Tic-Tac-Toe.git
+   ```
    
+   ```bash
    npm install
-   
+   ```
+
+   ```bash
    npm run dev
+   ```
 
 ## Screenshots
 
