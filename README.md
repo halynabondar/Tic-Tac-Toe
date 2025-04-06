@@ -34,6 +34,4 @@
 
 ## Screenshots
 
-[//]: # (![Screenshot 1]&#40;link-to-image-1&#41;  )
-
-[//]: # (![Screenshot 2]&#40;link-to-image-2&#41;  )
+![screencapture-tic-tac-toe.png](src/assets/screencapture-tic-tac-toe.png)
